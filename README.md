@@ -2,7 +2,7 @@
 
 **Ingeniero en Informática | Data Engineer Jr** — apasionado por convertir datos crudos en decisiones.
 
-Soy de **Santiago, Chile** 🇨🇱 y me especializo en el diseño y automatización de **pipelines ETL/ELT**, modelado dimensional y visualización de datos. Completé mi práctica profesional en **Tanner Servicios Financieros** (área de Normalización), donde integré fuentes de SQL Server, SharePoint y Excel corporativo en un Data Warehouse operacional, reduciendo tiempos de generación de reportes manuales.
+Soy de **Santiago, Chile** y me especializo en el diseño y automatización de **pipelines ETL/ELT**, modelado dimensional y visualización de datos. Completé mi práctica profesional en **Tanner Servicios Financieros** (área de Normalización), donde integré fuentes de SQL Server, SharePoint y Excel corporativo en un Data Warehouse operacional, reduciendo tiempos de generación de reportes manuales.
 
 **Mi misión:** construir pipelines de datos confiables y escalables que ayuden a las empresas a tomar mejores decisiones basadas en datos.
 
@@ -36,11 +36,6 @@ Soy de **Santiago, Chile** 🇨🇱 y me especializo en el diseño y automatizac
 ![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/NOTEBOOKS-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🎯 Intereses
-
-Me encanta el desafío de los datos: transformar información desordenada en historias claras y accionables.
-También disfruto la sismología (vivo en uno de los países más sísmicos del mundo 🌋), el fútbol, la música y aprender algo nuevo cada día.
 
 ### 📫 Contacto
 
