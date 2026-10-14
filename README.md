@@ -1,4 +1,4 @@
-### ¡Hola, soy Jonathan Huenuanca! 👋 | a.k.a. @JAHP07
+### ¡Hola, soy Jonathan Huenuanca! 👋 |
 
 **Ingeniero en Informática | Data Engineer Jr** — apasionado por convertir datos crudos en decisiones.
 
